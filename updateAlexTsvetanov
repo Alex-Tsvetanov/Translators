@@ -1,7 +1,0 @@
-#!/bin/bash
-git init
-git add .
-git commit
-git remote add origin https://github.com/Alex-Tsvetanov/Translators.git
-git push -u origin master
-
